@@ -40,7 +40,7 @@ const Header = () => {
           {/* Logo */}
           <Link href="/" className="relative w-44 h-12">
             <Image
-              src="/images/logo.png"
+              src="/images/logo.svg"
               alt="Photography Logo"
               fill
               className="object-contain"
