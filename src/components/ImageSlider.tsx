@@ -25,9 +25,9 @@ const slides = [
   },
   {
     id: 3,
-    image: '/images/slider/slide3.jpg',
-    alt: 'Wedding photography 3',
-    orientation: 'portrait'
+    image: '/images/slider/slide4.jpg',
+    alt: 'Wedding photography 4',
+    orientation: 'landscape'
   },
   {
     id: 4,
@@ -37,9 +37,9 @@ const slides = [
   },
   {
     id: 5,
-    image: '/images/slider/slide4.jpg',
-    alt: 'Wedding photography 4',
-    orientation: 'landscape'
+    image: '/images/slider/slide3.jpg',
+    alt: 'Wedding photography 3',
+    orientation: 'portrait'
   },
   {
     id: 6,
